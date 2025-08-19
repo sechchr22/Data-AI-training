@@ -1,0 +1,3 @@
+[submodule "value_props_analisis"]
+	path = value_props_analisis
+	url = git@github.com:sechchr22/value_props_analisis.git
